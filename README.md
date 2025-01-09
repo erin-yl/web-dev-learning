@@ -3,8 +3,9 @@ A repository documenting my web development learning journey and key milestones 
 
 ## Current Status
 - **Learning:** HTML, CSS, JavaScript, React  
-- **Projects:** Completing multiple CSS exercises and a landing page project to familiarize myself with CSS concepts
-- **Goal:** Build and deploy a responsive portfolio site by the end of February
+- **Latest Update:** Completed an HTML project and CSS exercises.
+- **Projects:** Working on a landing page project to familiarize myself with CSS concepts
+- **Next Goal:** Build and deploy a responsive portfolio site by the end of February
 
 ## Learning Resources
 - [The Odin Project](https://www.theodinproject.com/)
@@ -19,7 +20,3 @@ A repository documenting my web development learning journey and key milestones 
 - Build a portfolio site
 - Complete 3 projects from The Odin Project
 - Contribute to an open-source project  
-
-## Updates
-**Latest Update:**  
-*January 2025* - Completed a HTML project and CSS foundations courses.
