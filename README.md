@@ -4,7 +4,7 @@ A repository documenting my web development learning journey and key milestones 
 ## Current Status
 - **Learning:** HTML, CSS, JavaScript, React  
 - **Latest Update:** Completed HTML and CSS projects from TOP
-- **Projects:** Learning JavaScript Basics
+- **Projects:** Learning JavaScript basics
 - **Next Goal:** Build and deploy a responsive portfolio site by the end of February
 
 ## Learning Resources
