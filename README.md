@@ -3,9 +3,9 @@ A repository documenting my web development learning journey and key milestones 
 
 ## Current Status
 - **Learning:** HTML, CSS, JavaScript, React  
-- **Latest Update:** Completed HTML and CSS projects from TOP
+- **Latest Update:** Completed HTML, CSS, and JavaScript projects from TOP
 - **Projects:** Learning JavaScript basics
-- **Next Goal:** Complete the first JavaScript project by the first week of February
+- **Next Goal:** Complete the second JavaScript project by the second week of February
 
 ## Learning Resources
 - [The Odin Project](https://www.theodinproject.com/)
