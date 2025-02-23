@@ -10,6 +10,7 @@ A repository documenting my web development learning journey and key milestones 
 ## Learning Resources
 - [The Odin Project](https://www.theodinproject.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
+- [JavaScript.info](https://javascript.info/)
 
 ## Progress Trackers
 - **HTML/CSS Foundations** – [Completed]  
