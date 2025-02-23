@@ -13,9 +13,9 @@ A repository documenting my web development learning journey and key milestones 
 - [JavaScript.info](https://javascript.info/)
 
 ## Progress Trackers
-- **HTML/CSS Foundations** – [Completed]  
-- **JavaScript Basics** – [In progress]  
-- **React Basics** – [Planned]  
+- **HTML/CSS Foundations** – Completed
+- **JavaScript Basics** – In progress  
+- **React Basics** – Planned
 
 ## Goals
 - Complete TOP JavaScript projects by the end of February
