@@ -1,5 +1,5 @@
 # Web Dev Learning
-A repository documenting my web development learning journey and milestones as a UX Engineer transitioning from UX Design.
+A repository documenting my web development learning journey and milestones as a UX Engineer/Designer.
 
 ## Current Status
 - **Learning:** HTML, CSS, JavaScript, React, NodeJS
