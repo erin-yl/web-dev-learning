@@ -3,8 +3,8 @@ A repository documenting my web development learning journey and milestones as a
 
 ## Current Status
 - **Learning:** HTML, CSS, JavaScript, React, NodeJS
-- **Latest Update:** Learning advanced JavaScript
-- **Next Monthly Goal:** Complete advanced JavaScript projects and update portfolio
+- **Latest Update:** Learning advanced JavaScript and React
+- **Next Monthly Goal:** Complete advanced HTML and CSS course
 
 ## Learning Resources
 - [The Odin Project](https://www.theodinproject.com/)
